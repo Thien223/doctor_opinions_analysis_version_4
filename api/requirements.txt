@@ -1,0 +1,17 @@
+konlpy==0.5.2
+pandas==1.0.3
+psycopg2-binary==2.8.4
+nltk==3.4.4
+tensorflow-gpu==2.4.1
+numpy>=1.18.1
+torch==1.7.1+cu110
+torchvision==0.8.2+cu110 
+Flask==1.1.2
+waitress==1.4.4
+sklearn==0.0
+scikit-learn==0.24.1
+scipy==1.6.0
+tqdm==4.51.0
+Keras-Preprocessing==1.1.2
+requests==2.22.0
+python-dotenv>=0.15.0

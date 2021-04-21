@@ -1,0 +1,15 @@
+checkpoint/
+checkpoints/
+cuda/
+*/dataset/
+apps/
+temp/
+*/venv/
+*/env/
+__pycache__/
+*/__pycache__/
+.idea/
+*/.idea/
+*/.java/
+*/total_processed.csv
+.env
